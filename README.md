@@ -2,7 +2,7 @@ exploration
 ====
 
 Code and data for:
-Gershman, S.J. (under review). Deconstructing the human algorithms for exploration.
+Gershman, S.J. (2018). Deconstructing the human algorithms for exploration. Cognition.
 
 To run some of the functions, you will need the MFIT toolbox (github.com/sjgershm/mfit).
 
